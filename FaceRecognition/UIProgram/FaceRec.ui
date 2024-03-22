@@ -62,7 +62,7 @@
       </font>
      </property>
      <property name="text">
-      <string>人脸识别与信息管理系统</string>
+      <string>鸡只个体健康状况监测系统</string>
      </property>
     </widget>
     <widget class="Line" name="line">
@@ -94,7 +94,7 @@
       </font>
      </property>
      <property name="text">
-      <string>公众号：阿旭算法与机器学习</string>
+      <string>SRTP项目软件</string>
      </property>
     </widget>
     <widget class="QLCDNumber" name="lcdNumber">
@@ -239,7 +239,7 @@
            </font>
           </property>
           <property name="text">
-           <string>人脸信息录入</string>
+           <string>鸡脸信息录入</string>
           </property>
           <property name="icon">
            <iconset>
@@ -269,7 +269,7 @@
            </font>
           </property>
           <property name="text">
-           <string>人脸识别</string>
+           <string>鸡脸识别</string>
           </property>
           <property name="icon">
            <iconset>

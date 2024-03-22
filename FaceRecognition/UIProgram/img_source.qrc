@@ -1,5 +1,6 @@
 <RCC>
   <qresource prefix="icons">
+    <file>ui_imgs/About_Under_function.jpg</file>
     <file>ui_imgs/阿旭.jpg</file>
     <file>ui_imgs/扫码关注公众号：【阿旭算法与机器学习】可以获取更多学习内容.jpg</file>
     <file>ui_imgs/icons/人脸识别 (1).png</file>

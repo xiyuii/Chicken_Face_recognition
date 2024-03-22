@@ -72,7 +72,7 @@
      </property>
      <property name="font">
       <font>
-       <family>华文楷体</family>
+       <family>微软雅黑</family>
        <pointsize>16</pointsize>
       </font>
      </property>
@@ -90,12 +90,15 @@
       </property>
       <property name="font">
        <font>
-        <family>华文楷体</family>
+        <family>微软雅黑</family>
         <pointsize>14</pointsize>
        </font>
       </property>
       <property name="text">
-       <string>人脸信息</string>
+       <string>鸡脸信息</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
       </property>
      </widget>
      <widget class="QLabel" name="face_crop_label">
@@ -325,12 +328,12 @@
      </property>
      <property name="font">
       <font>
-       <family>华文楷体</family>
+       <family>微软雅黑</family>
        <pointsize>16</pointsize>
       </font>
      </property>
      <property name="title">
-      <string>人脸采集</string>
+      <string>鸡脸采集</string>
      </property>
      <widget class="QLabel" name="show_label">
       <property name="geometry">

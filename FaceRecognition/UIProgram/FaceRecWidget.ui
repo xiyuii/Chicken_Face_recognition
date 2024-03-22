@@ -47,7 +47,7 @@
      </font>
     </property>
     <property name="title">
-     <string>人脸识别</string>
+     <string>鸡脸识别</string>
     </property>
     <widget class="QLabel" name="show_label">
      <property name="geometry">
@@ -379,7 +379,7 @@
        </font>
       </property>
       <property name="text">
-       <string>人脸图片</string>
+       <string>鸡脸图片</string>
       </property>
      </widget>
      <widget class="QWidget" name="layoutWidget">
